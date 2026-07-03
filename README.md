@@ -1,6 +1,3 @@
-### 
-img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-###
 
 # Hi 👋, I'm Shubhadeep Patra
 
