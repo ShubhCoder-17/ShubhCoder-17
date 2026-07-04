@@ -1,6 +1,6 @@
 
 # Hi 👋, I'm Shubhadeep Patra
-
+<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 ### A passionate Java Fullstack developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShubhCoder-17&label=Profile views&color=0e75b6&style=flat" alt="ShubhCoder-17" /> </p>
