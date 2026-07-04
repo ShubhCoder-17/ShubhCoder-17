@@ -1,6 +1,6 @@
 
 # Hi 👋, I'm Shubhadeep Patra
-<img data-importer="image" align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDA4YWYxZ205NWY5ZGM1ZmZsMTI5aHJyMjZrNjM3YWw0ZmU3OXo4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LPZMkVxnXERA5h8BVJ/giphy.gif"/>
+![Coding Gif](https://media0.giphy.com/media/LPZMkVxnXERA5h8BVJ/giphy.gif)
 ### A passionate Java Fullstack developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShubhCoder-17&label=Profile views&color=0e75b6&style=flat" alt="ShubhCoder-17" /> </p>
